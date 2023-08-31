@@ -1,0 +1,252 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.margin {
+    margin-bottom: 70px;
+}
+
+.flex-section {
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-color {
+    color: #E55473;
+}
+
+h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.first-section {
+    background-color: #fad5dd;
+
+
+}
+
+.half-section {
+    width: 50%;
+    padding-left: 3%;
+    margin: 50px 0;
+
+}
+
+.half-section img {
+    width: 70%;
+}
+
+.half-section p {
+    margin: 30px 0;
+
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.btn {
+
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #E55473;
+    padding: 15px 30px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+}
+
+.flower-section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flower-section p {
+    font-size: 18px;
+
+}
+
+.single-flower {
+
+
+    width: 33%;
+    margin: 2%;
+    padding: 20px 10px;
+
+}
+
+.single-flower h5 {
+    font-size: 15px;
+
+    text-decoration: underline;
+}
+
+.single-flower img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 428px;
+    width: 310px;
+
+
+}
+
+#flower-1 {
+
+    background-color: #f9c9e0;
+    border-radius: 200px 200px 0 0;
+
+}
+
+#flower-2 {
+    background-color: #aef5f9;
+    border-radius: 200px 200px 0 0;
+}
+
+#flower-3 {
+    background-color: #cdecad;
+    border-radius: 200px 200px 0 0;
+}
+
+.half-section-third {
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.third-section {
+
+    background-color: #F8E5E9;
+}
+
+.box img {
+    margin: 10px;
+    width: 300px;
+    height: 392px;
+
+}
+
+.subcription-section {
+    width: 78%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 10px 0 0 10px;
+    margin: 50px 20px;
+}
+
+.subcription {
+    display: flex;
+
+
+}
+
+.subcription-img {
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px;
+}
+
+.subcription input {
+    margin-left: 15px;
+    width: 80%;
+}
+
+.subcription .btn {
+    margin-left: 10px;
+
+}
+
+.contact-section input,
+.contact-section textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.contact-section textarea,
+.subscription textarea {
+    height: 110px;
+}
+
+.contact-section input[type="submit"] {
+
+    background-color: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contact-address {
+    margin-left: 200px;
+}
+
+.contact-address h4 {
+    text-transform: capitalize;
+    font-size: 22px;
+}
+
+.contact-address h4 span {
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #111010;
+    color: white;
+    padding: 15px;
+}
+
+.footer-part {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.footer-part h2 {
+    font-size: 24px;
+    font-weight: 600px;
+}
+
+.footer-part p {
+    font-size: 14px;
+    color: #d9dbe1;
+}
+
+.footer-span {
+    color: #E55473;
+}
+
+footer small {
+    color: #ebe1e1ce;
+}
